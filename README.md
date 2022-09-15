@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erryza Nur Alif</h1>
 <h3 align="center">A passionate Quality Assurance from Indonesia</h3>
-<img align="right" alt="tester" width="400" src="https://dribbble.com/shots/4502970-Tester-Animation/attachments/10432224?mode=media"
+<img align="right" alt="tester" width="400" src="[https://dribbble.com/shots/4502970-Tester-Animation/attachments/10432224?mode=media](https://dribbble.com/shots/4502970-Tester-Animation)"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erryzanuralif&label=Profile%20views&color=0e75b6&style=flat" alt="erryzanuralif" /> </p>
 
 - 🌱 I’m currently learning **Selenium, Katalon,and Cypress**
